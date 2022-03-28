@@ -3,4 +3,4 @@
 Projekt zrealizowany na podstawie danych pozyskanych ze strony https://www.kaggle.com/
 
 W projekcie zajmuję się analizą danych cen akcji giełdowych firmy Microsoft Corporation
-Cały raport z projektu znajduje się w pliku [raport.pdf](https://github.com/Jakub-Domogala/Data_Analysis_-PL-/files/8366410/raport.pdf)
+Cały raport z projektu znajduje się w pliku raport.pdf
